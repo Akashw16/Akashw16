@@ -13,27 +13,31 @@
 ### ⚙️ Tech Stack
 
 <div align="center">
-
-### 💡 “Code is like humor. When you have to explain it, it’s bad.” 
-#### – Cory House
+  
+  #### _“Code is like humor. When you have to explain it, it’s bad.”_  
+  — Cory House
+  
 </div>
 
+---
 
-- **Languages:**
+<div align="center">
+
+  **Languages**  
   [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
   [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
   [![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
   [![CSS3](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
-- **Frameworks:**
+  **Frameworks**  
   [![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
   [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
-- **Databases:**
+  **Databases**  
   [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
   [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
-- **Tools:**
+  **Tools**  
   [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
   [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
   [![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
@@ -41,9 +45,11 @@
   [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
   [![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
-- **Version Control:**
+  **Version Control**  
   [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
   [![GitLab](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
+
+</div>
 
 ---
 
