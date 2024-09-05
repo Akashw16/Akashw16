@@ -33,6 +33,12 @@
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashw16&show_icons=true&theme=radical)
 
 ---
+### Badges
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+---
 
 ### 🏆 Achievements
 - **CDAC Postgraduate** - DAC specialization
