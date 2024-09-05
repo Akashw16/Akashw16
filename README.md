@@ -13,29 +13,30 @@
 ### ⚙️ Tech Stack
 
 - **Languages:**
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/java.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" width="40" height="40"/> 
+  [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+  [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+  [![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+  [![CSS3](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
 - **Frameworks:**
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/springboot.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" width="40" height="40"/> 
+  [![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+  [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 - **Databases:**
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mysql.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mongodb.svg" width="40" height="40"/> 
+  [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+  [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 - **Tools:**
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/docker.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/visualstudiocode.svg" width="40" height="40"/> 
+  [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+  [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+  [![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+  [![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
+  [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
+  [![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 - **Version Control:**
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gitlab.svg" width="40" height="40"/> 
-
-
+  [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+  [![GitLab](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
 
 ---
 
