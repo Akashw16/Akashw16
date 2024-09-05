@@ -49,7 +49,7 @@
 
 - [Pizza Quick Serve](https://github.com/Akashw16/pizza-quick-serve) - A quick-serve pizza ordering system.
 - [Coding Interview Questions](https://github.com/Akashw16/coding-interview-questions) - A platform for practicing coding questions.
-- [Other Project 1](https://github.com/Akashw16/Shortest-Route-Optimization-Using-ML) - A optimize the shortest route using machine learning algorithms.
+- [Shortest Route Optimization Using ML](https://github.com/Akashw16/Shortest-Route-Optimization-Using-ML) - A optimize the shortest route using machine learning algorithms.
 
 ---
 
