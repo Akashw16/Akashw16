@@ -13,27 +13,28 @@
 ### ⚙️ Tech Stack
 
 - **Languages:**
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/java.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" width="40" height="40"/> 
 
 - **Frameworks:**
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/springboot.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" width="40" height="40"/> 
 
 - **Databases:**
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mysql.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mongodb.svg" width="40" height="40"/> 
 
 - **Tools:**
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/docker.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/visualstudiocode.svg" width="40" height="40"/> 
 
 - **Version Control:**
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gitlab.svg" width="40" height="40"/> 
+
 
 
 ---
