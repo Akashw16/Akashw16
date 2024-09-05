@@ -16,6 +16,8 @@
 
 ### 💡 “Code is like humor. When you have to explain it, it’s bad.” 
 #### – Cory House
+</div>
+
 
 - **Languages:**
   [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
