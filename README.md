@@ -12,6 +12,8 @@
 
 ### ⚙️ Tech Stack
 
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
 - **Languages:**
   [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
   [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
