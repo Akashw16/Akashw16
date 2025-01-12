@@ -74,4 +74,4 @@
 ### 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/akashw16)
-- [Portfolio](https://yourportfolio.com)
+- [Portfolio](https://akashw16.github.io/portfolio/)
